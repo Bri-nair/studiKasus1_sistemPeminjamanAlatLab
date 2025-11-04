@@ -1,0 +1,4 @@
+Elektronik Mikroskop M001 220 1
+Elektronik Oscilloscope M002 220 1
+NonElektronik TabungReaksi N001 plastik 0
+NonElektronik Pipet N002 plastik 1
